@@ -11,9 +11,10 @@ my chosen project is a to do app. I hoped to learn a new skill (coding) througho
 //
 //  Created by Dara Shubay on 21/12/2021.
 //
+//aa help i have never coded before
+
 
 import UIKit
-//aa help i have never coded before
 class ViewController: UIViewController, UITableViewDataSource {
 
     private let table: UITableView = {
